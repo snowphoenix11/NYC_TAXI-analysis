@@ -18,7 +18,7 @@ library('leaflet.extras') # maps
 library('maps') # maps
 
 getwd()
-setwd("D:/00_ML_Courses/R Course/Course notebooks/FINAL CODE FILES/R/PQs")
+setwd("C:/users/Singh/train.csv")
 multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
   plots <- c(list(...), plotlist)
   numPlots = length(plots)
